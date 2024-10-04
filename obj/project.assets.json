@@ -2744,7 +2744,6 @@
     "net8.0": [
       "Microsoft.AspNetCore.OpenApi >= 8.0.8",
       "Microsoft.EntityFrameworkCore >= 8.0.8",
-      "Microsoft.EntityFrameworkCore.Design >= 8.0.8",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.8",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 8.0.8",
       "Swashbuckle.AspNetCore >= 6.4.0"
@@ -2756,11 +2755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\CRUDAPI\\CRUDAPI.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\WebApi\\CRUDAPI.csproj",
       "projectName": "CRUDAPI",
-      "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\CRUDAPI\\CRUDAPI.csproj",
+      "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\WebApi\\CRUDAPI.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\CRUDAPI\\obj\\",
+      "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2800,12 +2799,6 @@
             "version": "[8.0.8, )"
           },
           "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[8.0.8, )"
-          },
-          "Microsoft.EntityFrameworkCore.Design": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
             "target": "Package",
             "version": "[8.0.8, )"
           },

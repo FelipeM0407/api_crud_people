@@ -6,7 +6,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace CRUDAPI.Migrations
 {
     /// <inheritdoc />
-    public partial class createDB : Migration
+    public partial class creationDatabase : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
