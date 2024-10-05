@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OPQQzqVffeE=",
+  "dgSpecHash": "qWVJfrUqyEI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\WebApi\\CRUDAPI.csproj",
+  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\api_crud_people\\CRUDAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felip\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
