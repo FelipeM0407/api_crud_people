@@ -7,10 +7,10 @@ namespace WebApi.Models
 {
     public class People
     {
-        public int PeopleId { get; set; }
-        public string Name { get; set; }
-        public string LastName { get; set; }
-        public int Years { get; set; }
-        public string Profission { get; set; }
+        public int peopleId { get; set; }
+        public string name { get; set; }
+        public string lastName { get; set; }
+        public int years { get; set; }
+        public string profession { get; set; }
     }
 }

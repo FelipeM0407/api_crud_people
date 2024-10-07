@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\api_crud_people\\CRUDAPI.csproj": {}
+    "c:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\api_crud_people\\CRUDAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\api_crud_people\\CRUDAPI.csproj": {
+    "c:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\api_crud_people\\CRUDAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\api_crud_people\\CRUDAPI.csproj",
+        "projectUniqueName": "c:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\api_crud_people\\CRUDAPI.csproj",
         "projectName": "CRUDAPI",
-        "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\api_crud_people\\CRUDAPI.csproj",
+        "projectPath": "c:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\api_crud_people\\CRUDAPI.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\api_crud_people\\obj\\",
+        "outputPath": "c:\\Users\\felip\\OneDrive\\Área de Trabalho\\Projetos Portfolio\\CRUDAngularWebApi\\api_crud_people\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
