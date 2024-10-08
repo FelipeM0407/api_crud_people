@@ -1,0 +1,44 @@
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Compiled object files
+*.dll
+*.exe
+*.obj
+*.pdb
+
+# Dependencies
+packages/
+!packages/repositories.config
+*.nupkg
+*.snupkg
+
+# Caches
+*.cache
+*.g.cs
+*.g.i.cs
+
+# Build results
+bin/
+obj/
+
+# NuGet
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Entity Framework
+*.mdf
+*.ldf
+
+# Rider
+.idea/
